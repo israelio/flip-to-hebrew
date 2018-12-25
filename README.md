@@ -8,4 +8,8 @@ So i've created this simple apple script for him which can be installed quickly 
 
 ### installation instruction
 
-Download the automator package from [here](https://github.com/israelio/flip-to-hebrew/bin/fliptohebrew.zip)
+Download the automator package from [here](https://github.com/israelio/flip-to-hebrew/raw/master/bin/flipToHebrew.zip)
+
+Open the zip, double click on the automator package and choose to install it.
+
+In order to assign a shortcut open the keyboard settings pane and choose shortcuts, choose Services on the left menu and under Text service on the right choose flipToHebrew and assign it a shortcut of your choice. 
