@@ -10,6 +10,10 @@ So i've created this simple apple script for him which can be installed quickly 
 
 Download the automator package from [here](https://github.com/israelio/flip-to-hebrew/raw/master/bin/flipToHebrew.zip)
 
-Open the zip, double click on the automator package and choose to install it.
+Open the zip, double click on the automator package (flipToHebrew.workflow) and choose to install it.
 
-In order to assign a shortcut open the keyboard settings pane and choose shortcuts, choose Services on the left menu and under Text service on the right choose flipToHebrew and assign it a shortcut of your choice. 
+![alt text](https://github.com/israelio/flip-to-hebrew/raw/master/doc/install.png "Install the workflow")
+
+In order to assign a shortcut open the keyboard settings pane and choose shortcuts, choose Services on the left menu and under Text service on the right choose flipToHebrew and assign it a shortcut of your choice.
+
+![alt text](https://github.com/israelio/flip-to-hebrew/raw/master/doc/shortcut.png "assigna  shortcut")
