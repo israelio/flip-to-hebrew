@@ -6,6 +6,8 @@ Back in the Microsoft Windows days there was a tool by the name of [הפוך ע�
 
 So i've created this simple apple script for him which can be installed quickly as a service on your mac and you can also assign a shortcut key for it.
 
+v1.1 - Added support for hebrew to english and english to hebrew flip
+
 ### installation instruction
 
 Download the automator package from [here](https://github.com/israelio/flip-to-hebrew/raw/master/bin/flipToHebrew.zip)
